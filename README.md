@@ -63,4 +63,4 @@ The system is designed as a **telemedicine platform** with:
 ---
 
 ## 📄 Documentation
-- Phase 1 Report 👉 [📂 docs/Phase-1-Smart-Appointment.pdf](./docs/Phase-1-Smart-Appointment.pdf) 
+- Phase 1 Report 👉 [📂 phase-1 smart appointment management system.pdf](./phase-1%20smart%20appointment%20management%20system.pdf)
